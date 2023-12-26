@@ -21,5 +21,6 @@ Computer Vision Homeworks
     │   └── models
     └── HW3
         ├── HW3_gan_Golubev_AA.ipynb    # GAN, WGAN+Clipping, WGAN-GP, CWGAN-GP
+        ├── img
         └── models
 ```
